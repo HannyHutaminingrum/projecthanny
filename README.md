@@ -1,4 +1,4 @@
-Aplikasi ini dibangun menggunakan framework Laravel
+Aplikasi ini dibangun menggunakan framework Laravel 11
 Disarankan menggunakan OS Windows
 Cara:
 *Req:
